@@ -15,10 +15,10 @@ This is a summary of the projects I have built, am building and will build in th
 * [PID Control][8]
 * [Model Predictive Control][9]
 ### Term 3
-Coming soon
+* [Path Planning][10]
 
 ## Projects Inspired by Udacity Self-Driving Car Nano Degree
-Object Detection with YOLOor R-CNN?
+Object Detection with YOLO or R-CNN?
 
 Lane Lines Detection with CNN?
 
@@ -37,3 +37,4 @@ Object Detector or Self-Driving RC Car in Raspberry Pi?
 [7]: https://github.com/Xiaohong-Deng/CarND-Kidnapped-Vehicle-Project
 [8]: https://github.com/Xiaohong-Deng/CarND-PID-Control-Project
 [9]: https://github.com/Xiaohong-Deng/CarND-MPC-Project
+[10]: https://github.com/Xiaohong-Deng/CarND-Path-Planning-Project

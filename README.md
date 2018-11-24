@@ -16,15 +16,17 @@ This is a summary of the projects I have built, am building and will build in th
 * [Model Predictive Control][9]
 ### Term 3
 * [Path Planning][10]
+* [Semantic Segmentation][11]
+* [CarROS Self-Driving Car][12]
 
 ## Projects Inspired by Udacity Self-Driving Car Nano Degree
-Object Detection with YOLO or R-CNN?
+* [YOLOv3 Vehicle Detection][13]
 
-Lane Lines Detection with CNN?
+Lane Lines Detection with CNN? (Data Collecting is a big problem for me, check out [Michael Virgo's work][14])
 
 Self-Driving Mario Kart with Behavioral Cloning?
 
-Object Detector or Self-Driving RC Car in Raspberry Pi?
+[Self-Driving RC car][15] (Under Construction)
 
 ---
 [0]: https://github.com/Xiaohong-Deng/CarND-LaneLines-P1
@@ -38,3 +40,8 @@ Object Detector or Self-Driving RC Car in Raspberry Pi?
 [8]: https://github.com/Xiaohong-Deng/CarND-PID-Control-Project
 [9]: https://github.com/Xiaohong-Deng/CarND-MPC-Project
 [10]: https://github.com/Xiaohong-Deng/CarND-Path-Planning-Project
+[11]: https://github.com/Xiaohong-Deng/CarND-Semantic-Segmentation
+[12]: https://github.com/Udacity-carROS-team/CarND-Capstone
+[13]: https://www.youtube.com/watch?v=S1dry98SYTw
+[14]: https://github.com/mvirgo/MLND-Capstone
+[15]: https://github.com/Xiaohong-Deng/denkeycar
